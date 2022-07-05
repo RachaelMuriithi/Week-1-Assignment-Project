@@ -190,4 +190,10 @@ button {
     color: white;
     float: right;
 }
+.colum {
+  float: left;
+  width: 25%;
+  text-align: initial;
+}
+
 

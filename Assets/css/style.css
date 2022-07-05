@@ -145,5 +145,15 @@ nav{
   text-align:left;
   margin:5px;
 }
+button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
+.logo{
+  font-family: 'Oleo Script', cursive;
+    font-size: 20px;
+  }
+  
 
 

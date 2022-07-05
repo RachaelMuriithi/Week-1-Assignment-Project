@@ -116,6 +116,18 @@ margin:0;
 .fa-check-square{
     color:#2549D3;;
 }
-
+.icons{  
+  display: flex;
+  align-content: flex-end;
+  justify-content: space-between;
+  margin-left: -40px;
+}
+header {
+  display: flex;
+  align-items: center;
+  padding: 20px 2%;
+  width:100%;
+  justify-content: space-around;
+}
 
 

@@ -195,5 +195,32 @@ button {
   width: 25%;
   text-align: initial;
 }
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
-
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.row{
+text-align: center;
+padding: 20px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.row{
+text-align: center;
+padding: 20px;
+}

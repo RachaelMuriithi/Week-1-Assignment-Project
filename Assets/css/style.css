@@ -36,6 +36,7 @@ body {
     text-decoration: none;
     transition: all 0.3s ease 0s;
     outline: none;
+    padding-right: 30px;
 }
 .fl{
   display: flex;    
@@ -69,6 +70,34 @@ body {
 .img {
     height: auto;
     width: 100%;
+}
+.today{
+
+  color: #2549D3;
+}
+.white {
+    background-color:white;
+}
+
+ .fa{
+     margin-left: 2px;
+ }
+ .a {
+    text-decoration: none;
+ }
+ .filter-name {
+  color:#2549D3;
+}
+.filter {
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px 150px 40px 150px;
+  height:100px;
+  border-radius:20px;
+  display: flex;
+align-content: stretch;
+justify-content: space-evenly;
+align-items: center;
 }
 
 

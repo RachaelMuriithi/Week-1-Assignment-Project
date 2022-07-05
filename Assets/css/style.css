@@ -16,3 +16,9 @@
 .water li a:hover {
   color: #2549D3;
 }
+/* imported font family from google fonts */
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  background-color: #FAFAFA;
+  overflow-x:hidden;
+}

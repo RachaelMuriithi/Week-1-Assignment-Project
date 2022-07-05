@@ -141,4 +141,9 @@ nav{
   margin: 16px;
   background-color: white;
 }
+.align{
+  text-align:left;
+  margin:5px;
+}
+
 

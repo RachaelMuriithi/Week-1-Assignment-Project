@@ -129,5 +129,16 @@ header {
   width:100%;
   justify-content: space-around;
 }
-
+nav{
+  margin-left:250px;
+  }
+  .water {
+    list-style: none;
+  }
+  .feat{
+  float: left;
+  width: 29.33%;
+  margin: 16px;
+  background-color: white;
+}
 

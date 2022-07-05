@@ -154,6 +154,40 @@ button {
   font-family: 'Oleo Script', cursive;
     font-size: 20px;
   }
-  
+  .con-image{
+    height:100px;
+}
 
+.column {
+  float: left;
+  width: 30.33%;
+  background-color: white;
+  margin: 15px;
+  }
+  ul{
+    list-style:none;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* corrections */
+.row {
+  text-align: center;
+}
+.btn{
+   
+    margin-right: 30px;
+    padding: 12px;
+    border-radius: 5px;
+    border: none;
+    background-color: #2549d3;
+    outline: none;
+    color: white;
+    float: right;
+}
 

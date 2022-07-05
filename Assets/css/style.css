@@ -37,3 +37,30 @@ body {
     transition: all 0.3s ease 0s;
     outline: none;
 }
+.fl{
+  display: flex;    
+  
+  justify-content: center;
+  align-items: center;
+}
+.pa {
+  float: left;
+  width: 50%;
+}
+.bo {
+  font-family: 'Space Grotesk', sans-serif;
+  color: #2549D3;
+  font-size: 36px;
+  font-weight: 600;
+ 
+  text-align: left;
+}
+.text {
+  font-family: 'Space Grotesk', sans-serif;
+    font-size: 16px;
+   
+    text-align: left;
+}
+
+
+

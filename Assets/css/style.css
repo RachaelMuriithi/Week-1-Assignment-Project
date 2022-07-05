@@ -66,6 +66,10 @@ body {
   float: left;
  
 }
+.img {
+    height: auto;
+    width: 100%;
+}
 
 
 

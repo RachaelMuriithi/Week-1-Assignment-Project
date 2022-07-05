@@ -1,3 +1,8 @@
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  background-color: #FAFAFA;
+  overflow-x:hidden;
+}
 .water {
   list-style: none;
 }
@@ -17,8 +22,18 @@
   color: #2549D3;
 }
 /* imported font family from google fonts */
-body {
-  font-family: 'Space Grotesk', sans-serif;
-  background-color: #FAFAFA;
-  overflow-x:hidden;
+.find a {
+  color: white;
+}
+.find{
+    margin-left: 20px;
+    padding: 9px 10px;
+    background-color: #2549D3;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+    outline: none;
 }
